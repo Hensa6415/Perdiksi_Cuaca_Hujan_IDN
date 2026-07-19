@@ -1,0 +1,16 @@
+column,description
+temperature_2m,Temperatur udara pada ketinggian 2 meter (C).
+relative_humidity_2m,Kelembapan relatif pada 2 meter (%).
+apparent_temperature,Temperatur yang dirasakan (C).
+surface_pressure,Tekanan permukaan (hPa).
+cloud_cover,Persentase tutupan awan (%).
+wind_speed_10m,Kecepatan angin pada 10 meter (km/jam).
+wind_direction_10m,Arah angin pada 10 meter (derajat).
+precipitation,Total presipitasi per jam (mm).
+rain,Curah hujan per jam (mm).
+city,Nama kota.
+latitude,Latitude kota.
+longitude,Longitude kota.
+timestamp,Timestamp observasi per jam.
+rain_sum_next_6h,Akumulasi hujan 6 jam ke depan (mm).
+rain_next_6h,Label biner: 1 jika hujan >= threshold dalam 6 jam ke depan.
