@@ -1,3 +1,9 @@
+# NAMA              : Hensa Katelu
+# NIM               : 25.11.6415
+# Kelas             : 25 S1 IF 03
+# Mata Kuliah       : Pengantar Sains Data
+# Dosen Pengampu    : Ferian Fauzi Abdulloh, S.Kom., M.Kom
+
 # Mengimpor library os untuk mengatur file dan folder
 import os
 # Mengimpor fungsi-fungsi yang sudah dibuat dari file utils.py

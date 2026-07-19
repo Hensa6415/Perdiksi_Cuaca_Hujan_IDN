@@ -1,3 +1,9 @@
+# NAMA              : Hensa Katelu
+# NIM               : 25.11.6415
+# Kelas             : 25 S1 IF 03
+# Mata Kuliah       : Pengantar Sains Data
+# Dosen Pengampu    : Ferian Fauzi Abdulloh, S.Kom., M.Kom
+
 # Mengimpor library pandas untuk membaca dan memanipulasi data berbentuk tabel (dataframe)
 import pandas as pd
 # Mengimpor library numpy untuk melakukan perhitungan matematika kompleks dan array
